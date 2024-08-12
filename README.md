@@ -4,7 +4,7 @@
 Project-Instagram is java full-stack web aplication that allows the users to communicated with other users and exchanging the messages or pictures between them. The application is built using Java for the backend and React+Vite for the frontend. 
 
 ## Notes
-- This is a just backend part of application. Rest, frontend part will be added soon.
+- Application isn't finished yet.This is a just backend part of application. Frontend part will be added soon.
 - Before you run application, first, you need to create database. In MySQL Workbench, type this: 
 - DROP SCHEMA IF EXISTS instagram_db;
 - CREATE SCHEMA instagram_db DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
